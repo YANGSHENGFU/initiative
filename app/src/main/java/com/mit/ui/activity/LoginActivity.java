@@ -62,6 +62,9 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         chekPermission();
         initUserData();
 
+
+
+
     }
 
     private void initUserData(){
