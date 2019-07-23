@@ -93,6 +93,7 @@ public class MyOkHttp {
         }catch (Exception e){
             Log.i("post_url" ,  "链接拼接异常" ) ;
         }
+
         Request request;
         //发起request
         if(context == null) {
